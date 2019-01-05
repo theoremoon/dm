@@ -1,0 +1,11 @@
+{
+	"description": "D Mathmatical processor",
+	"authors": [
+		"theoldmoon0602"
+	],
+	"license": "MIT",
+	"name": "dm",
+  "dependencies": {
+    "dcnum": "~>0.0.3"
+  }
+}
