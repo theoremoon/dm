@@ -1,7 +1,7 @@
 {
 	"fileVersion": 1,
 	"versions": {
-		"dcnum": "0.0.3",
+		"dcnum": "0.0.4",
 		"deimos-mpfr": "1.0.0-alpha",
 		"gmp-d": "0.1.5",
 		"libgmp": "~master"
